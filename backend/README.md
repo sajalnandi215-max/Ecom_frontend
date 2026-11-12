@@ -174,3 +174,4 @@ python -m unittest discover -s backend/tests -p "test_*.py"
 | `/api/pricing/products` | `GET` | Available products for pricing simulation |
 | `/api/pricing/simulate` | `POST` | Counterfactual demand, revenue, and profit simulation |
 | `/api/insights/summary` | `GET` | Automated causal conclusions and actionable pricing recommendations |
+
